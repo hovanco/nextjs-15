@@ -2,5 +2,5 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
-  return <>Hello NextJS 15</>;
+  return <>Hello NextJS 15 I am beginner</>;
 }
